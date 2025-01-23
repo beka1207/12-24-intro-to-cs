@@ -1,0 +1,6 @@
+Презентации
+Презентовали темы: Frontend, Backend, Web-development.
+Узнали:
+Backend — серверная часть.
+Frontend — интерфейс приложения.
+Web-development объединяет обе части.
